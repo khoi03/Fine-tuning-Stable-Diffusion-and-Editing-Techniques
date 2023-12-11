@@ -21,7 +21,7 @@ Dreambooth is a method to personalize text-to-image models given just a few (4-6
     </tr> 
 </table>
   
-Sequentially, I apply various [Prompt-to-Prompt](https://arxiv.org/abs/2208.01626) text-based editing operations. Prompt-to-prompt provides users with simple and intuitive means to edit images, leveraging textual semantic power while preserving the original composition and structure.
+Subsequently, I apply various [Prompt-to-Prompt](https://arxiv.org/abs/2208.01626) text-based editing operations. Prompt-to-prompt provides users with simple and intuitive means to edit images, leveraging textual semantic power while preserving the original composition and structure.
 
 <table align="center">
     <tr>
