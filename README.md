@@ -92,11 +92,11 @@ Global editing affects all parts of the image, but still retain the original com
       <td align="center"> van gogh painting of ... in the desert</td>
   </tr>
   <tr>
-      <td align="center"> <img src="./assets/bnhglobal.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/bnhglobal3.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/bnhglobal2.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/bnhglobal1.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/bnhglobal4.png" width="200px" height="200px"></td>
+      <td align="center"> <img src="./assets/bnhglobal.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/bnhglobal3.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/bnhglobal2.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/bnhglobal1.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/bnhglobal4.png" width="170px" height="170px"></td>
   </tr>
   <tr>
       <td align="center" colspan="5"> ...a bnh keanu reeves... </td>
@@ -112,11 +112,11 @@ Global editing affects all parts of the image, but still retain the original com
       <td align="center"> watercolor painting of ...</td>
   </tr>
   <tr>
-      <td align="center"> <img src="./assets/tukiglobal.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/tukiglobal3.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/tukiglobal2.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/tukiglobal1.png" width="200px" height="200px"></td>
-      <td align="center"> <img src="./assets/tukiglobal4.png" width="200px" height="200px"></td>
+      <td align="center"> <img src="./assets/tukiglobal.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/tukiglobal3.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/tukiglobal2.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/tukiglobal1.png" width="170px" height="170px"></td>
+      <td align="center"> <img src="./assets/tukiglobal4.png" width="170px" height="170px"></td>
   </tr>
   <tr>
       <td align="center" colspan="5"> ...a tuki justin bieber wearing a sunglasses in a forest</td>
